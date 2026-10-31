@@ -1,0 +1,6 @@
+{
+  "name": "TCHI",
+  "description": "Capture Your Spending - Ứng dụng quản lý chi tiêu cá nhân kết hợp nhật ký hình ảnh và mạng xã hội bạn bè.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
